@@ -1,4 +1,4 @@
-<h1>Hi, I'm Deeqo! a possionate cybersecurity analyst</h1>
+<h1>Hi, I'm Deeqo! a young and possionate cybersecurity analyst</h1>
 
 <h2>👨‍💻 cybersecurity Projects:</h2>
 
