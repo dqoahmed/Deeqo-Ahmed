@@ -1,6 +1,6 @@
 <h1> Hi, I'm Deeqo, a young and passionate cybersecurity analyst!.</h1>
 
-<h2>👨‍💻 cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> Azure service deployment project </b>
    - [Azure-SaaS-deployment-and-Configuration](https://github.com/dqoahmed/Azure-SaaS-deployment-and-Configuration)
