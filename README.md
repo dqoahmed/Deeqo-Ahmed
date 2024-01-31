@@ -2,10 +2,11 @@
 
 <h2>👨‍💻 cybersecurity Projects:</h2>
 
-- <b> Azure/cloud projects (AlgoExpert)</b>
-  - [creating cloud honeynet project](https://github.com/dqoahmed/Azure-Honey-Net-Proj)
-- <b> Web-development project</b>
-  - [designing a website using HTML and CSS project](https://github.com/dqoahmed/Azure-Honey-Net-Proj)
+- <b> Azure service deployment project </b>
+[Azure-SaaS-deployment-and-Configuration](https://github.com/dqoahmed/Azure-SaaS-deployment-and-Configuration)
+
+- <b> Azure Cloud Honey-net project </b>
+  - [Azure-Honeynet-Environment](https://github.com/dqoahmed/Azure-Honeynet-Environment)
 
 
 
