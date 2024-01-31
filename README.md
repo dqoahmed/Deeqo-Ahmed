@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Azure service deployment project </b>
+- <b> Azure Service Deployment Project </b>
    - [Azure-SaaS-deployment-and-Configuration](https://github.com/dqoahmed/Azure-SaaS-deployment-and-Configuration)
 
-- <b> Azure Cloud Honey-net project </b>
+- <b> Azure Cloud Honey-net Project </b>
   - [Azure-Honeynet-Environment](https://github.com/dqoahmed/Azure-Honeynet-Environment)
 
 
