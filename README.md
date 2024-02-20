@@ -1,5 +1,5 @@
-<h1> Hi, I'm Deeqo, a young and passionate Cybersecurity Analyst! </h2> 
-  - <b> Dedicated to safeguarding digital assets and mitigating cyber threats, with a keen eye for detail and a proactive approach, I am committed to staying ahead of emerging security risks to protect organizations' data integrity and confidentiality.</b>
+<h1> Hi, I'm Deeqo! a young and passionate Cybersecurity Analyst! </h2> 
+  - <b> A young and passionate Cybersecurity Analyst, Dedicated to safeguarding digital assets and mitigating cyber threats. With a keen eye for detail and a proactive approach, I am committed to staying ahead of emerging security risks to protect organizations' data integrity and confidentiality.</b>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
